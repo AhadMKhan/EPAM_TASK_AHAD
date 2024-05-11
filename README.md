@@ -2,8 +2,8 @@
 
 ## Task 1
 ***1.	Write a list of different test cases to check this feature and the integrity of new entity StudyGroups according to the acceptance criteria:***
-1. Describe some high level steps and expectations (you can make assumptions of how the app works - just explain it)
-2. Highlight what are the inputs you will be using on each test case
+      1. Describe some high level steps and expectations (you can make assumptions of how the app works - just explain it)
+      2. Highlight what are the inputs you will be using on each test case
       3. Define testing level of this test case: unit testing, component testing or e2e testing (manual) - considering that:
             1. We have a unit test framework in TestApp using Nunit framework
             2. We have a component test framework in our TestAppAPI using Nunit framework
