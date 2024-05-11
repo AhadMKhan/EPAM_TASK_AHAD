@@ -13,10 +13,10 @@
 ### Task Submission Detail
 You can find Task 1 in the email, which includes an Excel formatted file.
 * I have crafted test cases with Test Case No, Test Scenario, Test Steps, Expected Outcome, Test Inputs, Testing Level and Is Regression?
-      * Test Case No, Test Scenario, Test Steps, Expected Outcome cover "PART A" of task 1.
-      * Test Inputs cover the "PART B" of task 1.
-      * Testing Level column cover "PART C" of task 1.
-      * Is Regression column cover the "PART D" of task 1.
+  * Test Case No, Test Scenario, Test Steps, Expected Outcome cover "PART A" of task 1.
+  * Test Inputs cover the "PART B" of task 1.
+  * Testing Level column cover "PART C" of task 1.
+  * Is Regression column cover the "PART D" of task 1.
 
 ## Task 2
 All the test cases which I have written in task 1 and marked as unit or component has been automated.
