@@ -1,4 +1,4 @@
-# EPAM_TASK_AHAD
+# EPAM Test Task QA .NET BW
 
 ## Task 1
 **1. Write a list of different test cases to check this feature and the integrity of new entity StudyGroups according to the acceptance criteria:**
@@ -32,3 +32,12 @@ All the test cases which I have written in Task 1 and marked as unit or componen
 
 ### Task Submission Detail
 Task 3, which is related to SQL query, can be found in **Task 3** folder within **Task3.sql** file.
+
+# Candidate Details
+### Note: If you have questions and you might think there is GAP in my understanding related to successful task please don't hesitate to contact me. I am happy to attend it according to your guide.
+
+## Details
+**Name:** *Ahad Muhammad Khan*
+**Email:** *ahad.mohammad.khan@gmail.com*
+**Contact / WhatsApp:** *+92 341 2780 424*
+You can contact me over teams or skype.
