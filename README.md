@@ -11,7 +11,7 @@
    4. Consider if you want to add all test cases to regression or not
 
 ### Task Submission Detail
-You can find Task 1 in the email, which includes an Excel formatted file.
+You can find Task 1 in the **Email** as well in **Task 1** folder in this repository, which includes an Excel formatted file.
 * I have crafted test cases with **Test Case No**, **Test Scenario**, **Test Steps**, **Expected Outcome**, **Test Inputs**, **Testing Level**, and **Is Regression?**
   * Test Case No, Test Scenario, Test Steps, Expected Outcome columns cover **"PART A"** of Task 1.
   * Test Inputs column cover the **"PART B"** of Task 1.
