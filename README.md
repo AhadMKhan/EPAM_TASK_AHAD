@@ -36,7 +36,7 @@ Task 3, which is related to SQL query, can be found in **Task 3** folder within 
 # Candidate Details
 ### Note: If you have questions and you might think there is GAP in my understanding related to successful task please don't hesitate to contact me. I am happy to attend it according to your guide.
 
-## Details
+### Details
 * **Name:** *Ahad Muhammad Khan*
 * **Email:** *ahad.mohammad.khan@gmail.com*
 * **Contact / WhatsApp:** *+92 341 2780 424*
