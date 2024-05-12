@@ -1,5 +1,12 @@
 # EPAM Test Task QA .NET BW
 
+## How to clone a repository:
+1. Open the partition of your computer HDD, either **C:/** or **D:/**.
+2. Create a folder or directory.
+3. Open Git Bash, Git UI, or cmd, whichever you prefer.
+4. Run the command ***`git clone https://github.com/AhadMKhan/EPAM_TASK_AHAD.git`***.
+5. The repository will be cloned, and you can view the tasks in your choice of editor.
+  
 ## Task 1
 **1. Write a list of different test cases to check this feature and the integrity of new entity StudyGroups according to the acceptance criteria:**
    1. Describe some high-level steps and expectations (you can make assumptions of how the app works - just explain it)
