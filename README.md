@@ -33,6 +33,8 @@ All the test cases which I have written in Task 1 and marked as unit or componen
 ### Task Submission Detail
 Task 3, which is related to SQL query, can be found in **Task 3** folder within **Task3.sql** file.
 
+
+
 # Candidate Details
 
 ***Note: If you have any questions or if you believe there are gaps in my understanding related to the successful completion of the task, please don't hesitate to contact me. I am happy to address any concerns and make adjustments according to your guidance.***
